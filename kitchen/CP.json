@@ -1,7 +1,7 @@
 {
   "games": [
     {
-      "boolval":"vid",
+      "boolval":"icon",
       "name": "Gameeeee",
       "image_url": "farhanaliciit/testcp/main/kitchen/car.jpg",
       "game_link": "https://play.google.com/store/apps/details?id=com.bw.kitchen.set.cooking.games",
