@@ -9,7 +9,8 @@
     {
       "name": "Adventure Quest",
       "image_url": "https://your-username.github.io/cross-promotion-data/adventure-quest.png",
-      "game_link": "https://play.adventurequest.com"
+      "game_link": "https://play.adventurequest.com",
+      "video_link": "https://raw.githubusercontent.com/farhanaliciit/testcp/main/test_Vid.mp4"
     }
   ]
 }
