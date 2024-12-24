@@ -1,7 +1,12 @@
-{
-  "CrossPromotion": {
+[
+  {
     "name": "Farhan",
-    "image_url": "https://path-to-image-in-storage",
+    "image_url": "https://your-username.github.io/cross-promotion-data/super-fun-game.png",
     "game_link": "https://play.google.com/store/apps/details?id=com.bw.kitchen.set.cooking.games"
+  },
+  {
+    "name": "Adventure Quest",
+    "image_url": "https://your-username.github.io/cross-promotion-data/adventure-quest.png",
+    "game_link": "https://play.adventurequest.com"
   }
-}
+]
