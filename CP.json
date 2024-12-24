@@ -1,0 +1,7 @@
+{
+  "CrossPromotion": {
+    "name": "Your Game Name",
+    "image_url": "https://path-to-image-in-storage",
+    "game_link": "https://link-to-your-game"
+  }
+}
