@@ -1,11 +1,11 @@
 {
   "games": [
     {
-      "boolval":"i",
+      "boolval":"vid",
       "name": "Gameeeee",
       "image_url": "farhanaliciit/testcp/main/kitchen/speed",
       "game_link": "https://play.google.com/store/apps/details?id=com.bw.kitchen.set.cooking.games",
-      "video_link": "farhanaliciit/testcp/main/kitchen/cakevid321.mp4"
+      "video_link": "farhanaliciit/testcp/main/kitchen/cakevid321"
     },
     {
       "name": "Game 2",
