@@ -1,0 +1,17 @@
+{
+  "games": [
+    {
+      "boolval":"icon",
+      "name": "Cake Making",
+      "image_url": "farhanaliciit/testcp/main/car.jpg",
+      "game_link": "https://play.google.com/store/apps/details?id=com.bw.kitchen.set.cooking.games",
+      "video_link": "farhanaliciit/testcp/main/cakevid321.mp4"
+    },
+    {
+      "name": "Game 2",
+      "image_url": "https://your-username.github.io/cross-promotion-data/adventure-quest.png",
+      "game_link": "https://play.google.com/store/apps/details?id=com.bw.pizza.baking.cooking.games",
+      "video_link": "https://raw.githubusercontent.com/farhanaliciit/testcp/main/test_Vid.mp4"
+    }
+  ]
+}
